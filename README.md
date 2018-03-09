@@ -51,4 +51,4 @@ docker run -d -p 8888:80 --name ns-nginx nathan:nginx
 Отмечу что **run** выполнятеся только один раз, в дальнейшем для работы с этим же контейнером выполняем просто команду **docker start ns-nginx**
 
 
-(Достойная документация)[http://docker.crank.ru/docs/] на русском.
+[Достойная документация](http://docker.crank.ru/docs/) на русском.
